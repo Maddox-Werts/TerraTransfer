@@ -23,3 +23,9 @@ mkdir custom
 cd ..
 mkdir bin
 ```
+
+You may then toss the corrisponding .A, .O, or .DYLIB files into the __bin__ folder. and run the
+```Bash
+make
+```
+command
