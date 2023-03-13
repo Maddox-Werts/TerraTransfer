@@ -17,11 +17,7 @@ To build this app you will need a few things:
 
 After that please run the following command inside of the __TeraTransfer__ folder:
 ```Bash
-mkdir build
-cd build
-mkdir custom
-cd ..
-mkdir bin
+bash ./setup_workspace.sh
 ```
 
 You may then toss the corrisponding .A, .O, or .DYLIB files into the __bin__ folder. and run the
